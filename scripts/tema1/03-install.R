@@ -1,11 +1,6 @@
-install.packages("tidyverse", dep = TRUE)
-
+install.packages("tidyverse",dependencies = TRUE)
 library(tidyverse)
-
-install.packages("magic", dep = TRUE)
-
+install.packages("magic",dependencies = TRUE)
 library(magic)
-
 magic(6)
-
-installed.packages()
+install.packages()

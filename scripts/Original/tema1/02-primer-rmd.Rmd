@@ -1,8 +1,10 @@
 ---
 title: "Mi primer Markdown"
-author: "Alejandro Zúñiga"
-date: "9/29/2020"
-output: pdf_document
+author: "Curso de Álgebra Lineal"
+date: "11/12/2018"
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}

@@ -1,0 +1,6 @@
+Para pedir, basta con utilizar la instrucción hep() en consola.
+
+INSTALAR PAQUETES 
+
+install.package("nombre_paquete",dep = TRUE )
+library(nombre_del_paquete)
